@@ -1,0 +1,28 @@
+{
+  "name": "@allquire/hello-world",
+  "version": "0.1.0",
+  "description": "Hello world module. Used for Jest testing.",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allquire/hello-world.git"
+  },
+  "keywords": [
+    "helloworld",
+    "hello",
+    "allquire",
+    "require",
+    "npm",
+    "github",
+    "gitlab"
+  ],
+  "author": "Il Harper <afanyiyu@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allquire/hello-world/issues"
+  },
+  "homepage": "https://github.com/allquire/hello-world#readme"
+}
